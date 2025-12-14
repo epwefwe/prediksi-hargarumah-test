@@ -1,0 +1,1 @@
+web: cd src && streamlit run streamlit.py --logger.level=error
